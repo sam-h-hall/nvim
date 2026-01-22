@@ -1,0 +1,16 @@
+return {
+  require("lsp_config.diagnostics"),
+  require("lsp_config.intelephense"),
+  require("lsp_config.rust_analyzer"),
+  require("lsp_config.gopls"),
+  require("lsp_config.angularls"),
+  require("lsp_config.cssls"),
+  require("lsp_config.html"),
+  require("lsp_config.tailwindcss"),
+  require("lsp_config.eslint"),
+  require("lsp_config.cssmodules_ls"),
+  require("lsp_config.lua_ls"),
+  require("lsp_config.pylsp"),
+  require("lsp_config.ts_ls"),
+  require("lsp_config.docker_ls"),
+}
